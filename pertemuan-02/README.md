@@ -11,6 +11,6 @@ belajar:
   <li>emmet untuk header yaitu h1+nav>ul>li*3>a</li>
   <li>emmet untuk section*2>h2+p di main</li>
   <li>tag p di dalam footer</li>
-  <li>title dokumen</li>
-  <li>header dokumen</li>
+  <li>ganti title</li>
+  <li>mengisi header</li>
 </ol>
