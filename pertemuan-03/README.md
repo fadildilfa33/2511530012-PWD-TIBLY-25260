@@ -15,11 +15,3 @@ hari ini, Selasa 23.DES.2025 belajar:
     <li>membuat styling untuk selector ID #about tag strong</li>
     <li>styling mode responsif (mobile) maksimum 600px</li>
 </ol>
-Tugas pertemuan-03<br>
-<ol>
-    <li>section#contact grups selector</li>
-    <li>section#contact grups selector h2</li>
-    <li>section#contact upgrade sruktur form</li>
-    <li>section#contact styling label</li>
-    <li>section#contact styling label>span</li>
-</ol>
