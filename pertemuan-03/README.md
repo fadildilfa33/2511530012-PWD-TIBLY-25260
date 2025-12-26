@@ -10,4 +10,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>struktur form untuk contact</li>
     <li>membuat styling selector ID #about</li>
     <li>membuat styling selector ID #about h2</li>
+    <li>membuat styling selector ID #about p</li>
 </ol>
