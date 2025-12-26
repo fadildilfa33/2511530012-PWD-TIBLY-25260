@@ -8,4 +8,5 @@ hari ini, Jumat 26 DES 2025 belajar:
     <li>copy index.html pertemuan-03 ke pertemuan-04</li>
     <li>ganti internal css ke eksternal css</li>
     <li>aturan css untuk body dan global reset</li>
+    <li>styling header</li>
 </ol>
