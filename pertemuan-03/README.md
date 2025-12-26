@@ -11,4 +11,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>membuat styling selector ID #about</li>
     <li>membuat styling selector ID #about h2</li>
     <li>membuat styling selector ID #about p</li>
+    <li>membuat styling selector ID #about strong</li>
 </ol>
