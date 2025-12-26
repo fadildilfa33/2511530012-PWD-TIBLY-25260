@@ -17,4 +17,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>section#contact pengelompokan selector(selector gruping) h2</li>
     <li>section#contact upgrade struktur form</li>
     <li>section#contact styling label</li>
+    <li>section#contact styling label>span</li>
 </ol>
