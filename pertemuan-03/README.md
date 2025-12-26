@@ -21,4 +21,5 @@ Tugas pertemuan-03<br>
     <li>section#contact grups selector h2</li>
     <li>section#contact upgrade sruktur form</li>
     <li>section#contact styling label</li>
+    <li>section#contact styling label>span</li>
 </ol>
