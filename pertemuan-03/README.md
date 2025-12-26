@@ -8,4 +8,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>copy index.html pertemuan-02 ke pertemuan-03</li>
     <li>mengisi section contact dengan emmet abbrevation</li>
     <li>struktur form untuk contact</li>
+    <li>membuat styling selector ID #about</li>
 </ol>
