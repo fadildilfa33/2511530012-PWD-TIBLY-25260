@@ -15,4 +15,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>membuat styling selector ID #about mode responsif (mobile)</li>
     <li>section#contact pengelompokan selector(selector gruping)</li>
     <li>section#contact pengelompokan selector(selector gruping) h2</li>
+    <li>section#contact upgrade struktur form</li>
 </ol>
