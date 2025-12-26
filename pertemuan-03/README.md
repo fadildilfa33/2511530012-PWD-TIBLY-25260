@@ -9,4 +9,5 @@ hari ini, Selasa 23 DES 2025 belajar:
     <li>mengisi section contact dengan emmet abbrevation</li>
     <li>struktur form untuk contact</li>
     <li>membuat styling selector ID #about</li>
+    <li>membuat styling selector ID #about h2</li>
 </ol>
