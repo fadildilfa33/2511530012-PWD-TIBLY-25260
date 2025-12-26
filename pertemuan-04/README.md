@@ -12,4 +12,5 @@ hari ini, Jumat 26 DES 2025 belajar:
     <li>styling section#home</li>
     <li>styling footer</li>
     <li>styling navigasi</li>
+    <li>styling header mode mobile</li>
 </ol>
