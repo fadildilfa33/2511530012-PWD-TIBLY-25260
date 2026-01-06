@@ -1,1 +1,62 @@
-# pertemuan-05
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Judul Halaman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+        <h1>Ini Header</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#about">Tentang</a></li>
+                <li><a href="#contact">Kontak</a></li>
+            </ul>
+        </nav>
+  </header>
+  <main>
+        <section id="home">
+            <h2>Selamat Datang</h2>
+            <p>Terimakasih sudah mampir ke halaman ini &#128591;&#127802;<br>
+                Halaman ini saya buat agar kita bisa saling kenal lebih dekat.<br>Scroll kebawah buat liat profil lengkap saya,ya!&darr; </p>
+        </section>
+        <section id="about">
+            <h2>Tentang Saya</h2>
+            <p><strong>NIM:</strong> 2511530012</p>
+            <p><strong>Nama Lengkap:</strong> Siti Fadillah</p>
+            <p><strong>Tempat Lahir:</strong> Belinyu</p>
+            <p><strong>Tanggal Lahir:</strong> 3 Juli 2005</p>
+            <p><strong>NIM:</strong> Rebahan, Baca Novel &#128214;, Memancing &#127907;</p>
+            <p><strong>Pasangan:</strong> Belum ada &hearts;</p>
+            <p><strong>Pekerjaan:</strong> Mahasiswa di ISB Atma Luhur Belinyu &copy; 2025</p>
+            <p><strong>Nama Orang Tua:</strong> Bapak Suratno dan Ibu Nati</p>
+            <p><strong>Nama Kakak:</strong> Yesi Nadila</p>
+        </section>
+        <section id="contact">
+            <h2>Kontak Kami</h2>
+            <form action="POST">
+                <label for="txtnama"><span>Nama</span>
+                <input type="text" id="txtnama" placeholder="Masukkan Nama" required autocomplete="name">
+                </label>
+
+                <label for="txtemail"><span>Email</span>
+                <input type="text" id="txtemail" placeholder="Masukkan Email" required autocomplete="email">
+                </label>
+
+                <label for="txtpesan"><span>Pesan</span>
+                <textarea name="txtpesan" id="pesan" rows="4" placeholder="Tulis pesan anda" required></textarea>
+                </label>
+
+                <button type="submit">Kirim</button>
+                <button type="reset">Batal</button>
+            </form>
+        </section>
+  </main>
+  <footer>
+    <p>&copy; Siti Fadillah [2511530012]</p>   
+  </footer>  
+</body>
+</html>
