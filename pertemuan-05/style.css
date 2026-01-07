@@ -74,7 +74,7 @@ footer {
     nav .active {
         display: flex;
     }
-    
+
     header { 
         padding: 16px; 
         position: sticky; 
@@ -217,7 +217,7 @@ footer {
     }
 
 .menu-toggle {
-    display: none;
+    display: block;
     background: none;
     border: none;
     color: #fff;
