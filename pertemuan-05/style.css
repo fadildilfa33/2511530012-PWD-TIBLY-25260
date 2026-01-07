@@ -129,6 +129,12 @@ footer {
     }   
 
 @media (max-width: 600px) {
+    .menu-toggle {
+        display: block;
+        position: absolute;
+        left: 16px;
+        top: 8px;
+    }
     #about p,
     #contact label {
            flex-direction: column; 
@@ -147,22 +153,7 @@ footer {
     #contact button {
             width: 100%;
         }
-
-    .menu-toggle {
-        display: block;
-        position: absolute;
-        left: 16px;
-        top: 8px;
     }
-
-    nav {
-        display: none;
-        flex-direction: column;
-        background: #b12424;
-        width: 100%;
-        padding: 5px 0;
-    }
-}
 
 #contact input,
 #contact textarea {
