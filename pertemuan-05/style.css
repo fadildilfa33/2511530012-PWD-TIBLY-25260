@@ -154,6 +154,14 @@ footer {
         left: 16px;
         top: 8px;
     }
+
+    nav {
+        display: none;
+        flex-direction: column;
+        background: #b12424;
+        width: 100%;
+        padding: 5px 0;
+    }
 }
 
 #contact input,
