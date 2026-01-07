@@ -8,4 +8,5 @@ hari ini, Rabu 7 JAN 2025 belajar:
     <li>copy index.html dan style.css folder pertemuan-04</li>
     <li>tombol hamburger</li>
     <li>class menu-toggle</li>
+    <li>class menu-toggle mobile</li>
 </ol>
