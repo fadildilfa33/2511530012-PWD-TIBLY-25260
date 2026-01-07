@@ -12,4 +12,5 @@ hari ini, Rabu 7 JAN 2025 belajar:
     <li>styling nav mobile</li>
     <li>styling nav menu mobile</li>
     <li>membuat script.js</li>
+    <li>validasi formulir sebelum submit di JavaScrip</li>
 </ol>
