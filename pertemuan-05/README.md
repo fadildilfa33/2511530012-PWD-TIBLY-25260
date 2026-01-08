@@ -15,4 +15,5 @@ hari ini, Rabu 7 JAN 2025 belajar:
     <li>validasi formulir sebelum submit di JavaScrip</li>
     <li>Ganti Teks Tombol Saat Menu Aktif JavaScrip</li>
     <li>Ucapan Otomatis Saat Halaman Dimuat (JS)</li>
+    <li>Latihan Hitung Jumlah Karakter Pesan(JS)</li>
 </ol>
