@@ -8,4 +8,5 @@ Di pertemuan 7 saya belajar:<br>
     <li>extract bahan ajar ke pertemuan-10</li>
     <li>hapus file index.html</li>
     <li>buat file koneksi.php</li>
+    <li>buat Database db_pwd2025</li>
 </ol>
