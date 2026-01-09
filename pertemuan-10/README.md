@@ -9,4 +9,5 @@ Di pertemuan 7 saya belajar:<br>
     <li>hapus file index.html</li>
     <li>buat file koneksi.php</li>
     <li>buat Database db_pwd2025</li>
+    <li>buat mysql tabel tamu tbl_tamu</li>
 </ol>
