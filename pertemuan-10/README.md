@@ -10,4 +10,5 @@ Di pertemuan 7 saya belajar:<br>
     <li>buat file koneksi.php</li>
     <li>buat Database db_pwd2025</li>
     <li>buat mysql tbl_tamu</li>
+    <li>buat file read.php</li>
 </ol>
