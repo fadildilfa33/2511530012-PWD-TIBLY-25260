@@ -11,4 +11,5 @@ Di pertemuan 7 saya belajar:<br>
     <li>buat Database db_pwd2025</li>
     <li>buat mysql tbl_tamu</li>
     <li>buat file read.php</li>
+    <li>isi data tbl_tamu, tab insert</li>
 </ol>
