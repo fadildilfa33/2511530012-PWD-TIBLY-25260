@@ -9,4 +9,5 @@ Hari ini Selasa, 13 JAN 2026 mengerjakan UAS:
     <li>extract bahan UAS ke pertemuan-16</li>
     <li>buat tabel biodata pengunjung</li>
     <li>buat data tabel biodata pengunjung</li>
+    <li>section #home</li>
 </ol>
